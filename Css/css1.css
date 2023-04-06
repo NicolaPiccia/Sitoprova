@@ -1,6 +1,24 @@
 p{
     color: chartreuse;
 }
+body {
+    background : blue;
+}
+
+h1{
+    background: aquamarine;
+}
+
+div{
+    background: antiquewhite ;
+}
+
 h2 {
     color: blue ;
 }
+/* selettori di classe
+ */
+.colorerosso{
+    border: #FA6900 thick solid;
+}
+
